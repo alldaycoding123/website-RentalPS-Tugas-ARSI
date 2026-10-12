@@ -9,6 +9,23 @@ html5-qrcode dimuat lewat CDN dari layout Blade. Cukup `composer install`,
 
 ---
 
+## Screenshot UI
+
+### 1. Pelanggan — Pilih Unit (`/pelanggan/unit`)
+
+Grid unit dengan filter PS5/PS4, badge status (Tersedia / Sudah Dibooking / Maintenance),
+refresh status otomatis tiap 15 detik.
+
+![Screenshot halaman Pilih Unit Pelanggan](docs/screenshot-pelanggan.png)
+
+### 2. Admin — Dashboard (`/admin/dashboard`)
+
+Statistik realtime (unit, booking, pendapatan) + grafik Chart.js dan ringkasan aktivitas.
+
+![Screenshot Dashboard Admin](docs/screenshot-admin.png)
+
+---
+
 ## 1. Persyaratan
 
 | Komponen | Versi |
